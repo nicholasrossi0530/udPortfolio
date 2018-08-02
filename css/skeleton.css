@@ -419,3 +419,55 @@ there.
 
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {}
+
+
+/* Custom changes for my current project
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.header {
+  border-bottom: solid 3px black;
+}
+
+.icon {
+  margin-top: 10%;
+}
+
+.titleAndSubHeader {
+  margin-top: 10%;
+  text-align: right;
+}
+
+.title {
+  margin-bottom: 0px;
+}
+
+.subHeader {
+  margin-bottom: 2rem;
+}
+
+.mainImage {
+  width: 100%;
+  height: auto;
+  margin-top: 2rem;
+}
+
+.projectItem {
+  text-align: center;
+}
+
+.projectImageContiner {
+  text-align: center;
+}
+
+.projectImage {
+  margin-top: 2rem;
+}
+
+.projectName {
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+.projectLink {
+  text-align: center;
+}
